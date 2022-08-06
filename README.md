@@ -1,0 +1,2 @@
+# isodd
+NPM isodd package
