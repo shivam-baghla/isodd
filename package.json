@@ -1,5 +1,5 @@
 {
-  "name": "isodd",
+  "name": "is-num-odd",
   "version": "0.0.1",
   "description": "this module provide a method isOdd which return true if an odd number is passed, false otherwise.",
   "main": "index.js",
