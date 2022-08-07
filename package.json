@@ -1,0 +1,19 @@
+{
+  "name": "isodd",
+  "version": "0.0.1",
+  "description": "this module provide a method isOdd which return true if an odd number is passed, false otherwise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivambaghla/isodd.git"
+  },
+  "author": "Shivam Baghla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivambaghla/isodd/issues"
+  },
+  "homepage": "https://github.com/shivambaghla/isodd#readme"
+}
